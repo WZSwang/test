@@ -8,3 +8,5 @@ def foo(x,y):
 	print(x+y)
 
 foo(x,y)
+print(x*y)
+
